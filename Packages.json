@@ -6,7 +6,7 @@
         "author"              : "NanderTGA (https://nandertga.ddns.net)",
         "category"            : "other",
         "version"             : 1.4,
-        "readmeFile"          : "https://nandertga.ddns.net/w96-packages/dist/w/w96-all-apps-meta/README.html",
+        "readmeFile"          : "$REPO_PATH$/dist/w/w96-all-apps-meta/README.html",
         "downloadSize"        : 6931307,
         "installedSize"       : 7012260,
         "feature_requirements": [],
@@ -16,7 +16,7 @@
             "32x32": "https://packages.windows96.net/r3-main/dist/w/w96-wallpapers-meta/icon32.png",
             "16x16": "https://packages.windows96.net/r3-main/dist/w/w96-wallpapers-meta/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/w/w96-all-apps-meta"
+        "packageRoot": "$REPO_PATH$/dist/w/w96-all-apps-meta"
     },
     {
         "name"                : "thinkjame",
@@ -25,17 +25,17 @@
         "author"              : "ctrli#0420",
         "category"            : "other",
         "version"             : 1.5,
-        "readmeFile"          : "https://nandertga.ddns.net/w96-packages/dist/t/thinkjame/README.html",
+        "readmeFile"          : "$REPO_PATH$/dist/t/thinkjame/README.html",
         "downloadSize"        : 2295,
         "installedSize"       : 1817,
         "feature_requirements": [],
         "min_os_version"      : 300000,
         "depends"             : [],
         "iconFiles"           : {
-            "32x32": "https://nandertga.ddns.net/w96-packages/dist/t/thinkjame/icon32.png",
-            "16x16": "https://nandertga.ddns.net/w96-packages/dist/t/thinkjame/icon16.png"
+            "32x32": "$REPO_PATH$/dist/t/thinkjame/icon32.png",
+            "16x16": "$REPO_PATH$/dist/t/thinkjame/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/t/thinkjame"
+        "packageRoot": "$REPO_PATH$/dist/t/thinkjame"
     },
     {
         "name"                : "ms-nostalgic-wallpapers",
@@ -44,17 +44,17 @@
         "author"              : "Microsoft (https://www.microsoft.com/en-us/microsoft-365/blog/2021/07/08/get-nostalgic-with-new-microsoft-teams-backgrounds/)",
         "category"            : "other",
         "version"             : 1.1,
-        "readmeFile"          : "https://nandertga.ddns.net/w96-packages/dist/m/ms-nostalgic-wallpapers/README.html",
+        "readmeFile"          : "$REPO_PATH$/dist/m/ms-nostalgic-wallpapers/README.html",
         "downloadSize"        : 2229329,
         "installedSize"       : 2243116,
         "feature_requirements": [],
         "min_os_version"      : 2.2776,
         "depends"             : [],
         "iconFiles"           : {
-            "32x32": "https://nandertga.ddns.net/w96-packages/dist/m/ms-nostalgic-wallpapers/icon32.png",
-            "16x16": "https://nandertga.ddns.net/w96-packages/dist/m/ms-nostalgic-wallpapers/icon16.png"
+            "32x32": "$REPO_PATH$/dist/m/ms-nostalgic-wallpapers/icon32.png",
+            "16x16": "$REPO_PATH$/dist/m/ms-nostalgic-wallpapers/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/m/ms-nostalgic-wallpapers"
+        "packageRoot": "$REPO_PATH$/dist/m/ms-nostalgic-wallpapers"
     },
     {
         "name"                : "woozy-clicker",
@@ -63,17 +63,17 @@
         "author"              : "a73 (a73#0034)",
         "category"            : "entertainment",
         "version"             : 1.1,
-        "readmeFile"          : "https://nandertga.ddns.net/w96-packages/dist/w/woozy-clicker/README.html",
+        "readmeFile"          : "$REPO_PATH$/dist/w/woozy-clicker/README.html",
         "downloadSize"        : 9546,
         "installedSize"       : 10509,
         "feature_requirements": [],
         "min_os_version"      : 300000,
         "depends"             : [],
         "iconFiles"           : {
-            "32x32": "https://nandertga.ddns.net/w96-packages/dist/w/woozy-clicker/icon32.png",
-            "16x16": "https://nandertga.ddns.net/w96-packages/dist/w/woozy-clicker/icon16.png"
+            "32x32": "$REPO_PATH$/dist/w/woozy-clicker/icon32.png",
+            "16x16": "$REPO_PATH$/dist/w/woozy-clicker/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/w/woozy-clicker"
+        "packageRoot": "$REPO_PATH$/dist/w/woozy-clicker"
     },
     {
         "name"                : "scandium",
@@ -82,17 +82,17 @@
         "author"              : "a73 (a73#0034)",
         "category"            : "other",
         "version"             : 1.2,
-        "readmeFile"          : "https://nandertga.ddns.net/w96-packages/dist/s/scandium/README.html",
+        "readmeFile"          : "$REPO_PATH$/dist/s/scandium/README.html",
         "downloadSize"        : 6773,
         "installedSize"       : 12881,
         "feature_requirements": [],
         "min_os_version"      : 300000,
         "depends"             : [],
         "iconFiles"           : {
-            "32x32": "https://nandertga.ddns.net/w96-packages/dist/s/scandium/icon32.png",
-            "16x16": "https://nandertga.ddns.net/w96-packages/dist/s/scandium/icon16.png"
+            "32x32": "$REPO_PATH$/dist/s/scandium/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/scandium/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/s/scandium"
+        "packageRoot": "$REPO_PATH$/dist/s/scandium"
     },
     {
         "name"                : "bbase64",
@@ -101,17 +101,17 @@
         "author"              : "a73 (a73#0034)",
         "category"            : "utilities",
         "version"             : 1.3,
-        "readmeFile"          : "https://nandertga.ddns.net/w96-packages/dist/b/bbase64/README.html",    
+        "readmeFile"          : "$REPO_PATH$/dist/b/bbase64/README.html",    
         "downloadSize"        : 2508,
         "installedSize"       : 2420,
         "feature_requirements": [],
         "min_os_version"      : 300000,
         "depends"             : [],
         "iconFiles"           : {
-            "32x32": "https://nandertga.ddns.net/w96-packages/dist/b/bbase64/icon32.png",
-            "16x16": "https://nandertga.ddns.net/w96-packages/dist/b/bbase64/icon16.png"
+            "32x32": "$REPO_PATH$/dist/b/bbase64/icon32.png",
+            "16x16": "$REPO_PATH$/dist/b/bbase64/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/b/bbase64"
+        "packageRoot": "$REPO_PATH$/dist/b/bbase64"
     },
     {
         "name"                : "iframeappgengengengengen",
@@ -120,18 +120,18 @@
         "author"              : "NanderTGA (https://nandertga.ddns.net)",
         "category"            : "utilities",
         "version"             : 1.0,
-        "readmeFile"          : "https://nandertga.ddns.net/w96-packages/dist/i/iframeappgengengengengen/README.html",
+        "readmeFile"          : "$REPO_PATH$/dist/i/iframeappgengengengengen/README.html",
         "downloadSize"        : 12555,
         "installedSize"       : 21088,
         "feature_requirements": [],
         "min_os_version"      : 2.2776,
-        "max_os_version"      : 999999999,
+        "max_os_version"      : 9999,
         "depends"             : [],
         "iconFiles"           : {
-            "32x32": "https://nandertga.ddns.net/w96-packages/dist/i/iframeappgengengengengen/icon32.png",
-            "16x16": "https://nandertga.ddns.net/w96-packages/dist/i/iframeappgengengengengen/icon16.png"
+            "32x32": "$REPO_PATH$/dist/i/iframeappgengengengengen/icon32.png",
+            "16x16": "$REPO_PATH$/dist/i/iframeappgengengengengen/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/i/iframeappgengengengengen"
+        "packageRoot": "$REPO_PATH$/dist/i/iframeappgengengengengen"
     },
     {
         "name"                : "repo-mount",
@@ -149,7 +149,7 @@
             "32x32": "https://windows96.net/system/resource/icons/win96/32x32/devices/hdd.png",
             "16x16": "https://windows96.net/system/resource/icons/win96/16x16/devices/hdd.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/r/repo-mount"
+        "packageRoot": "$REPO_PATH$/dist/r/repo-mount"
     },
     {
         "name"                : "dualbootwizard",
@@ -164,10 +164,10 @@
         "min_os_version"      : 300000,
         "depends"             : [],
         "iconFiles"           : {
-            "32x32": "https://nandertga.ddns.net/w96-packages/dist/d/dualbootwizard/icon32.png",
-            "16x16": "https://nandertga.ddns.net/w96-packages/dist/d/dualbootwizard/icon16.png"
+            "32x32": "$REPO_PATH$/dist/d/dualbootwizard/icon32.png",
+            "16x16": "$REPO_PATH$/dist/d/dualbootwizard/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/d/dualbootwizard"
+        "packageRoot": "$REPO_PATH$/dist/d/dualbootwizard"
     },
     {
         "name"                : "96hub",
@@ -182,9 +182,9 @@
         "min_os_version"      : 300000,
         "depends"             : [],
         "iconFiles"           : {
-            "32x32": "https://nandertga.ddns.net/w96-packages/dist/9/96hub/icon32.png",
-            "16x16": "https://nandertga.ddns.net/w96-packages/dist/9/96hub/icon16.png"
+            "32x32": "$REPO_PATH$/dist/9/96hub/icon32.png",
+            "16x16": "$REPO_PATH$/dist/9/96hub/icon16.png"
         },
-        "packageRoot": "https://nandertga.ddns.net/w96-packages/dist/9/96hub"
+        "packageRoot": "$REPO_PATH$/dist/9/96hub"
     }
 ]
