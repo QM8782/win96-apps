@@ -1,0 +1,190 @@
+[
+    {
+        "name"                : "w96-all-apps-meta",
+        "friendlyName"        : "All apps on Nander his repository",
+        "description"         : "Installs every package from Nander's repository.",
+        "author"              : "NanderTGA (https://nandertga.ddns.net)",
+        "category"            : "other",
+        "version"             : 1.4,
+        "readmeFile"          : "https://nandertga.ddns.net/w96-packages//dist/w/w96-all-apps-meta/README.html",
+        "downloadSize"        : 6931307,
+        "installedSize"       : 7012260,
+        "feature_requirements": [],
+        "min_os_version"      : 300000,
+        "depends"             : [ "thinkjame", "ms-nostalgic-wallpapers", "woozy-clicker", "scandium", "bbase64", "repo-mount", "dualbootwizard", "96hub" ],
+        "iconFiles"           : {
+            "32x32": "https://packages.windows96.net/r3-main/dist/w/w96-wallpapers-meta/icon32.png",
+            "16x16": "https://packages.windows96.net/r3-main/dist/w/w96-wallpapers-meta/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/w/w96-all-apps-meta"
+    },
+    {
+        "name"                : "thinkjame",
+        "friendlyName"        : "Thinkjame",
+        "description"         : "Helps you think jame :troll:",
+        "author"              : "ctrli#0420",
+        "category"            : "other",
+        "version"             : 1.5,
+        "readmeFile"          : "https://nandertga.ddns.net/w96-packages//dist/t/thinkjame/README.html",
+        "downloadSize"        : 2295,
+        "installedSize"       : 1817,
+        "feature_requirements": [],
+        "min_os_version"      : 300000,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://nandertga.ddns.net/w96-packages//dist/t/thinkjame/icon32.png",
+            "16x16": "https://nandertga.ddns.net/w96-packages//dist/t/thinkjame/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/t/thinkjame"
+    },
+    {
+        "name"                : "ms-nostalgic-wallpapers",
+        "friendlyName"        : "Microsoft Nostalgic Backgrounds",
+        "description"         : "The nostalgic Microsoft Teams backgrounds, now including the original bliss wallpaper!",
+        "author"              : "Microsoft (https://www.microsoft.com/en-us/microsoft-365/blog/2021/07/08/get-nostalgic-with-new-microsoft-teams-backgrounds/)",
+        "category"            : "other",
+        "version"             : 1.1,
+        "readmeFile"          : "https://nandertga.ddns.net/w96-packages//dist/m/ms-nostalgic-wallpapers/README.html",
+        "downloadSize"        : 2229329,
+        "installedSize"       : 2243116,
+        "feature_requirements": [],
+        "min_os_version"      : 2.2776,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://nandertga.ddns.net/w96-packages//dist/m/ms-nostalgic-wallpapers/icon32.png",
+            "16x16": "https://nandertga.ddns.net/w96-packages//dist/m/ms-nostalgic-wallpapers/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/m/ms-nostalgic-wallpapers"
+    },
+    {
+        "name"                : "woozy-clicker",
+        "friendlyName"        : "Woozy Clicker",
+        "description"         : "Basic clicker game",
+        "author"              : "a73 (a73#0034)",
+        "category"            : "entertainment",
+        "version"             : 1.1,
+        "readmeFile"          : "https://nandertga.ddns.net/w96-packages//dist/w/woozy-clicker/README.html",
+        "downloadSize"        : 9546,
+        "installedSize"       : 10509,
+        "feature_requirements": [],
+        "min_os_version"      : 300000,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://nandertga.ddns.net/w96-packages//dist/w/woozy-clicker/icon32.png",
+            "16x16": "https://nandertga.ddns.net/w96-packages//dist/w/woozy-clicker/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/w/woozy-clicker"
+    },
+    {
+        "name"                : "scandium",
+        "friendlyName"        : "Scandium",
+        "description"         : "Another iframe browser",
+        "author"              : "a73 (a73#0034)",
+        "category"            : "other",
+        "version"             : 1.2,
+        "readmeFile"          : "https://nandertga.ddns.net/w96-packages//dist/s/scandium/README.html",
+        "downloadSize"        : 6773,
+        "installedSize"       : 12881,
+        "feature_requirements": [],
+        "min_os_version"      : 300000,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://nandertga.ddns.net/w96-packages//dist/s/scandium/icon32.png",
+            "16x16": "https://nandertga.ddns.net/w96-packages//dist/s/scandium/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/s/scandium"
+    },
+    {
+        "name"                : "bbase64",
+        "friendlyName"        : "Better Base64",
+        "description"         : "This one can encode and decode unicode.",
+        "author"              : "a73 (a73#0034)",
+        "category"            : "utilities",
+        "version"             : 1.3,
+        "readmeFile"          : "https://nandertga.ddns.net/w96-packages//dist/b/bbase64/README.html",    
+        "downloadSize"        : 2508,
+        "installedSize"       : 2420,
+        "feature_requirements": [],
+        "min_os_version"      : 300000,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://nandertga.ddns.net/w96-packages//dist/b/bbase64/icon32.png",
+            "16x16": "https://nandertga.ddns.net/w96-packages//dist/b/bbase64/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/b/bbase64"
+    },
+    {
+        "name"                : "iframeappgengengengengen",
+        "friendlyName"        : "Iframe App Generator Generator Generator Generator Generator",
+        "description"         : "Why? Because memes. V2 only tho.",
+        "author"              : "NanderTGA (https://nandertga.ddns.net)",
+        "category"            : "utilities",
+        "version"             : 1.0,
+        "readmeFile"          : "https://nandertga.ddns.net/w96-packages//dist/i/iframeappgengengengengen/README.html",
+        "downloadSize"        : 12555,
+        "installedSize"       : 21088,
+        "feature_requirements": [],
+        "min_os_version"      : 2.2776,
+        "max_os_version"      : 999999999,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://nandertga.ddns.net/w96-packages//dist/i/iframeappgengengengengen/icon32.png",
+            "16x16": "https://nandertga.ddns.net/w96-packages//dist/i/iframeappgengengengengen/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/i/iframeappgengengengengen"
+    },
+    {
+        "name"                : "repo-mount",
+        "friendlyName"        : "Repository Mount",
+        "description"         : "Mounts NanderTGA's repository as a drive.",
+        "author"              : "NanderTGA (https://nandertga.ddns.net)",
+        "category"            : "utilities",
+        "version"             : 1.0,
+        "downloadSize"        : 931,
+        "installedSize"       : 128,
+        "feature_requirements": [],
+        "min_os_version"      : 2.2776,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://windows96.net/system/resource/icons/win96/32x32/devices/hdd.png",
+            "16x16": "https://windows96.net/system/resource/icons/win96/16x16/devices/hdd.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/r/repo-mount"
+    },
+    {
+        "name"                : "dualbootwizard",
+        "friendlyName"        : "Dualboot Wizard",
+        "description"         : "Helps you manage multiple partitions. V3 ONLY!",
+        "author"              : "NanderTGA (https://nandertga.ddns.net)",
+        "category"            : "utilities",
+        "version"             : 1.0,
+        "downloadSize"        : 4662562,
+        "installedSize"       : 4708131,
+        "feature_requirements": [],
+        "min_os_version"      : 300000,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://nandertga.ddns.net/w96-packages//dist/d/dualbootwizard/icon32.png",
+            "16x16": "https://nandertga.ddns.net/w96-packages//dist/d/dualbootwizard/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/d/dualbootwizard"
+    },
+    {
+        "name"                : "96hub",
+        "friendlyName"        : "96Hub Community Edition",
+        "description"         : "96Hub, modded by the community, for the community!",
+        "author"              : "NanderTGA (https://nandertga.ddns.net)",
+        "category"            : "accessories",
+        "version"             : 1.0,
+        "downloadSize"        : 4651,
+        "installedSize"       : 12170,
+        "feature_requirements": [],
+        "min_os_version"      : 300000,
+        "depends"             : [],
+        "iconFiles"           : {
+            "32x32": "https://nandertga.ddns.net/w96-packages//dist/9/96hub/icon32.png",
+            "16x16": "https://nandertga.ddns.net/w96-packages//dist/9/96hub/icon16.png"
+        },
+        "packageRoot": "https://nandertga.ddns.net/w96-packages//dist/9/96hub"
+    }
+]
